@@ -15,7 +15,7 @@ Run PowerShell as System Administrator (Righ click on "Start" button and select 
 ![ps](./doc/images/ps.png)
 
 * Go to directory with extracted SAR.exe
-* Run cmdlet `New-Service <ServiceName> -BinaryPathName "C:\Users\<UserName>\tools\SAR\SAR.exe <Path to application with param>"
+* Run cmdlet `New-Service <ServiceName> -BinaryPathName "C:\Users\<UserName>\tools\SAR\SAR.exe <Path to application with param>"`
 
 Example:
 
