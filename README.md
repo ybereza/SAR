@@ -6,7 +6,7 @@ I have used it to run [Syncthing](https://syncthing.net/) windows console applic
 
 ## Getting started
 
-Download SAR.zip from "Releases" tab and extract SAR.exe from archive into any destination directory. For example C:\Users\<UserName>\tools\SAR
+Download SAR.zip from [Releases](https://github.com/ybereza/SAR/releases) tab and extract SAR.exe from archive into any destination directory. For example C:\Users\<UserName>\tools\SAR
 
 ## Creating service
 
